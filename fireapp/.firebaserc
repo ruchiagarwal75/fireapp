@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "fireapp-32341",
+    "fireapp-staging": "fireapp-32341"
+  }
+}
